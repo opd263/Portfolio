@@ -190,6 +190,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/link.svg",
-    link:"linkedin.com/in/om-prakash-dukiya-264bb917a"
+    link:"https://linkedin.com/in/om-prakash-dukiya-264bb917a"
   },
 ];
