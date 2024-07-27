@@ -66,7 +66,7 @@ export const projects = [
     title: "Ecommerce application",
     des: "Built a full-stack ecommerce application using MERN stack and Redux",
     img: "screens.png",
-    iconLists: ["/re.svg", "/express.png", "/mongodb.svg", "/node.svg"],
+    iconLists: ["/re.svg", "/express.svg", "/mongodb.svg", "/node.svg"],
     link: "https://ecomshop-w803.onrender.com",
   },
   {
@@ -74,7 +74,7 @@ export const projects = [
     title: "Property Rental application",
     des: "Built a Property Rental application using Next.js,React,MongoDB etc.",
     img: "property.png",
-    iconLists: ["/next.svg", "/re.svg", "/mongodb.svg", "/node.svg", "/express.png"],
+    iconLists: ["/next.svg", "/re.svg", "/mongodb.svg", "/node.svg", "/express.svg"],
     link: "https://property-wala-three.vercel.app/",
   },
 ];
