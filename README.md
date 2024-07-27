@@ -37,7 +37,7 @@ Built with Next.js for handling the user interface, Three.js for rendering 3D el
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/opd263/portfolio.git
+git clone https://github.com/opd263/Portfolio.git
 cd portfolio
 ```
 
